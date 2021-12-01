@@ -1,7 +1,7 @@
 ---
 name: New Features - Les Inconnus
 about: Template for new issue
-title: "[FEATURE] - TItle"
+title: "[FEATURE] - Title"
 labels: feature
 assignees: ''
 
