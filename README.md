@@ -26,4 +26,5 @@ font-family: 'Playfair Display', serif;
   - #00171F (dark)
   - #FFFFFF (white) -> texte
 - Troisième couleur: #003459 (bleu marine)
-- Background light: #F6F7EB
+- Background light: #F6F7EB (taupe)
+- Emphasis color: #FFC300 (jaune)
