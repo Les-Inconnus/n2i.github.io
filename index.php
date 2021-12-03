@@ -36,24 +36,29 @@ if(isset($_GET['onglet'])){
     </form>
     <?php
 
-   // if(isset($_POST['texte'])){
+    if(isset($_POST['texte'])){
        ?>
-        <div class="card mb-3" style="width:60%;height:100px;margin-left:20%;margin-top:15px;">
+        <div class="card mb-3" style="width:60%;height:150px;margin-left:20%;margin-top:15px;">
   <div class="row g-0">
     <div class="col-md-4">
       <img src="..." class="img-fluid rounded-start" alt="...">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-4">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
+    <div class="col-md-4">
+      <div class="card-body">
+     <a href=""><button type="button" style="margin-top:15%;" class="btn btn-primary">Rechercher</button></a>  
+      </div>
+    </div>
+    
   </div>
-  <a href="" style="text-align:right;"><button type="button" class="btn btn-primary">V</button></a>
 </div>
         <?php
-  // }
+   }
 }
 ?>
     
