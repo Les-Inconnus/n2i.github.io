@@ -15,6 +15,16 @@ height: 50px;
 box-shadow: 2px 2px 2px;
 }
 
+.btn-primary{
+    background-color: #003459;
+    margin-left: 5px;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #003459;
+}
+
 a{
     color: black;
     text-decoration: none;
